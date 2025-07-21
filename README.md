@@ -1,5 +1,3 @@
-FREE IMAGE TO PDF CONVERTER. NO SING UP NEEDED.
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -29,6 +27,9 @@ FREE IMAGE TO PDF CONVERTER. NO SING UP NEEDED.
     h2 {
       color: #343a40;
       margin-bottom: 15px;
+    }
+    h1{
+      text-align:center;
     }
     input[type="file"] {
       padding: 10px;
