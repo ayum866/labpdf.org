@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -74,7 +75,9 @@
       background-color: #157347;
     }
     @media print {
-      #printButton {
+      #printButton,
+      #uploadSection,
+      h1 {
         display: none !important;
       }
       body, html {
